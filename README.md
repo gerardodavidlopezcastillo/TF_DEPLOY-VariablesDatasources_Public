@@ -1,3 +1,8 @@
+# TF_DEPLOY-VariablesDatasources_Public
+## **Description Details:**
+
+This repository offers a step-by-step guide on leveraging Terraform's Input Variables and Datasources for AWS EC2 deployments. Explore defining variables such as region, instance type, and key pair, as well as associating security groups and retrieving the latest AMI ID. Follow along with the provided examples to create an EC2 instance and access deployed applications. Learn to validate, plan, apply changes, and clean up resources effortlessly. Perfect for beginners and those aiming to enhance their Terraform skills in managing infrastructure as code on AWS EC2.
+
 # Terraform Variables and Datasources
 
 ## Step-00: Pre-requisite Note
